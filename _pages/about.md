@@ -47,10 +47,16 @@ My research interest lies on computer vision based on deep learning. Current res
 - *2022.02 - 2024.08 (now)*, Master, Sungkyunkwan University, Suwon, South Korea. Major in Electrical and Computer Engineering (ECE).
 - *2016.03 - 2022.02*, Bachelor, Soongsil University, Seoul, South Korea. Double major in Electronic Engineering (EE) and AI Convergence.
 
-# 💼 Experience
+# 💼 Experiences
 - *2022.07 - 2022.08*, Participated in 2022 Hyundai R&D Division AI Competition (Selection of 30 people)
   - Project: Development of an AI-based automated algorithm for 3D vehicle structure and exterior marketability verification using VRED
+- *2022.06 - 2021.07*, Participated in 2022 Naver CLOVA AI RUSH (Selection of 150 people)
+  - First Round Project: Photo cloud development - Landmark recognition 
 - *2021.05 - 2021.06*, Participated in 2021 Naver CLOVA AI RUSH (Selection of 150 people)
   - First Round Project: Photo cloud development – Extended image classification
 - *2021.01 - 2021.08*, Research Student, Soongsil University AI Data Research Team
   - Project: Establishing 5G-based environmental monitoring sensor verification platform
+
+# ✏️ Teaching
+- *2023.07 - 2024.06*, Sungkyunkwan University, Data Analysis Fundamentals, Teaching Assistant
+- *2023.01 - 2023.02*, Sungkyunkwan University, Logic Circuit Design Laboratory, Teaching Assistant
