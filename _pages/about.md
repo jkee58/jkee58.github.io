@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a M.S. student at the Computer Systems and Intelligence (CSI) Lab at Sungkyunkwan University (SKKU) supervised by Prof. Yusung Kim. Prior to studying at SKKU, I received double bachelor's degrees in Electronic Engineering (EE) and AI Convergence at Soongsil University in 2022.
+I am a M.S. student in the Computer Systems and Intelligence (CSI) Lab at Sungkyunkwan University (SKKU) supervised by Prof. Yusung Kim. Prior to studying at SKKU, I received double bachelor's degrees in Electronic Engineering (EE) and AI Convergence at Soongsil University in 2022.
 
 My research interest lies on computer vision based on deep learning. Current research directions include self-supervised, domain-adaptive, and multimodal learning for dense prediction task such as semantic segmentation.
 
 # 🔥 News
-- *2024.07*: 🎉 [CSI]() was accepted to ECCV 2024
+- *2024.07*: 🎉 [CSI](https://arxiv.org/abs/) was accepted to ECCV 2024
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CSI_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs]()
+[Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs](https://arxiv.org/abs/)
 
 **Jeongkee Lim**, Yusung Kim
 
@@ -40,7 +40,7 @@ My research interest lies on computer vision based on deep learning. Current res
 
 - [Pseudo-label Correction using Large Vision-Language Models for Enhanced Domain-adaptive Semantic Segmentation](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11791082), **Jeongkee Lim**, Yusung Kim \| Journal of Korean Institute of Information Scientists and Engineers (KIISE)
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2021.11*, Scholarship for Academic Excellence
 
 # 📖 Educations
@@ -60,3 +60,16 @@ My research interest lies on computer vision based on deep learning. Current res
 # ✏️ Teaching
 - *2023.07 - 2024.06*, Sungkyunkwan University, Data Analysis Fundamentals, Teaching Assistant
 - *2023.01 - 2023.02*, Sungkyunkwan University, Logic Circuit Design Laboratory, Teaching Assistant
+
+# 🖥️ Applications
+- *2020.11 - 2020.12*, [Mobile Rhythm Game with Computer Vision](https://github.com/jkee58/RhythmVisionGame)
+  - Real-time pose estimation game powered by Google ML Kit on Android
+- *2019.04 - 2019.05*, [XE-LIFO Comment Translator](https://github.com/jkee58/xe-Naver.openapi-papago)
+  - Comment translator for XE powered by NAVER™ OpenAPI
+  - Deploy to [XETOWN Point Contents](https://xetown.com/point_contents/1215269)
+- *2019.04*, [XE-LIFO Captcha](https://github.com/jkee58/xe-Naver.openapi-captcha)
+  - Captcha for XE powered by NAVER™ OpenAPI
+  - Deploy to [XETOWN Point Contents](https://xetown.com/point_contents/1210350)
+- *2019.02 - 2019.03*, [TOAST UI Editor for XE](https://github.com/jkee58/xe-tui.editor)
+  - Markdown editor for XE powered by NHN TOAST UI Editor
+  - Deploy to [XETOWN Point Contents](https://xetown.com/point_contents/1183106)
