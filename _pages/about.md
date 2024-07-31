@@ -50,7 +50,7 @@ My research interest lies on computer vision based on deep learning. Current res
 # 💼 Experiences
 - *2022.07 - 2022.08*, Participated in 2022 Hyundai R&D Division AI Competition (Selection of 30 people)
   - Project: Development of an AI-based automated algorithm for 3D vehicle structure and exterior marketability verification using VRED
-- *2022.06 - 2021.07*, Participated in 2022 Naver CLOVA AI RUSH (Selection of 150 people)
+- *2022.06 - 2022.07*, Participated in 2022 Naver CLOVA AI RUSH (Selection of 150 people)
   - First Round Project: Photo cloud development - Landmark recognition 
 - *2021.05 - 2021.06*, Participated in 2021 Naver CLOVA AI RUSH (Selection of 150 people)
   - First Round Project: Photo cloud development – Extended image classification
