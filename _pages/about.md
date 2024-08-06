@@ -22,14 +22,14 @@ I am a M.S. student in the Computer Systems and Intelligence (CSI) Lab at Sungky
 My research interest lies on computer vision based on deep learning. Current research directions include self-supervised, domain-adaptive, and multimodal learning for dense prediction task such as semantic segmentation.
 
 # 🔥 News
-- *2024.07*: 🎉 [CSI](https://arxiv.org/abs/) was accepted to ECCV 2024
+- *2024.07*: 🎉 [CSI](https://arxiv.org/abs/2408.02261) was accepted to ECCV 2024
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CSI_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs](https://arxiv.org/abs/)
+[Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs](https://arxiv.org/abs/2408.02261)
 
 **Jeongkee Lim**, Yusung Kim
 
